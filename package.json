@@ -16,12 +16,12 @@
     }
   ],
   "bugs": {
-    "web": ""
+    "web": "https://github.com/andzdroid/paypal-express/issues"
   },
   "repositories": [
     {
       "type": "git",
-      "url": "",
+      "url": "git@github.com:andzdroid/paypal-express.git",
     }
   ],
   "dependencies": {
