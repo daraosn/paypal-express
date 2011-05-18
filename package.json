@@ -1,0 +1,31 @@
+{
+  "name": "paypal-express",
+  "version": "0.0.1",
+  "description": "Package for using Paypal Express Checkout",
+  "keywords": [
+    "paypal",
+    "express",
+    "checkout",
+    "payment"
+  ],
+  "contributors": [
+    {
+      "name": "Chun-hao Hu",
+      "email": "hu.chunhao@gmail.com",
+      "web": "http://blog.huchunhao.com"
+    }
+  ],
+  "bugs": {
+    "web": ""
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "",
+    }
+  ],
+  "dependencies": {
+  },
+  "main": "index",
+  "engines": ["node"]
+}
