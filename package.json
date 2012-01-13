@@ -21,7 +21,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "git@github.com:andzdroid/paypal-express.git",
+      "url": "git@github.com:andzdroid/paypal-express.git"
     }
   ],
   "dependencies": {
